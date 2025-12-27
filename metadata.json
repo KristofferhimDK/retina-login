@@ -1,0 +1,7 @@
+{
+  "name": "AURA: Futuristic Security Interface",
+  "description": "A high-fidelity futuristic login experience featuring simulated biometric scanning, glassmorphism UI, and AI-driven security analysis using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
